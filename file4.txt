@@ -1,1 +1,2 @@
 file4 added
+This is a random line added
