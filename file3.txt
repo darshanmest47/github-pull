@@ -1,2 +1,3 @@
 This is file3
 extra line in file3
+Additional content in file3
