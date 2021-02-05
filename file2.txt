@@ -1,1 +1,2 @@
 This is file2
+extra line in file2
